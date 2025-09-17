@@ -6,7 +6,8 @@ ClipFX – Serve or share files instantly via Cloudflare Tunnel
 
 [![PyPI](https://img.shields.io/pypi/v/clipfx)](https://pypi.org/project/clipfx/)
 [![Python](https://img.shields.io/pypi/pyversions/clipfx)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/efxtv/clipfx)](LICENSE)
+
+
 
 **ClipFX** (Termux / Linux / Windows) is a lightweight Python CLI tool that allows you to **serve any file or stdin input instantly** over a public URL using **Cloudflare Tunnel**.  
 Perfect for sharing files quickly without setting up a web server.
