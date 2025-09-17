@@ -48,6 +48,7 @@ pip install clipfx
 ### Termux 
 ```bash
 pip install clipfx
+pip install text2url
 ```
 
 Please Join us on [telegram](https://t.me/efxtv) let us know if you like this project :)
